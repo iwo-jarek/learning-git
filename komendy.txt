@@ -1,1 +1,3 @@
-autoprefixer-cli --sources-content 
+ --sources-content - ma czytać z pliku style.css
+  You can specify output file or directory by '-o' argument.
+  
